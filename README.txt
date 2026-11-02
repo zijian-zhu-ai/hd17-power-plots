@@ -1,0 +1,1 @@
+Plot images + source CSV data for the Confluence page 'HD17 Power Consumption — Zylon Installed' (https://appliedintuition.atlassian.net/wiki/spaces/VO/pages/3017147254). Plots generated from the adk_energy_apps energy_rollup_1m table via Cloud SQL tunnel. HD17 has Zylon installed (~200W higher draw).
